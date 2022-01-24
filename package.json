@@ -1,0 +1,23 @@
+{
+  "name": "iobroker.kafka",
+  "version": "1.0.0",
+  "description": "adpater for iobroker to integrate kafka",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MK-2001/ioBroker.kafka.git"
+  },
+  "keywords": [
+    "kafka",
+    "iobroker"
+  ],
+  "author": "Marcus Krause",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/MK-2001/ioBroker.kafka/issues"
+  },
+  "homepage": "https://github.com/MK-2001/ioBroker.kafka#readme"
+}
